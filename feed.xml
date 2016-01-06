@@ -11,8 +11,8 @@
   </author>
   <entry>
     <title>Raspberry Pi Public Web Server</title>
-    <link rel="alternate" href="http://blog.url.com/2016/01/06/raspberry-pi-public-webserver.html"/>
-    <id>http://blog.url.com/2016/01/06/raspberry-pi-public-webserver.html</id>
+    <link rel="alternate" href="http://blog.url.com/2016/01/06/raspberry-pi-public-webserver/"/>
+    <id>http://blog.url.com/2016/01/06/raspberry-pi-public-webserver/</id>
     <published>2016-01-05T19:00:00-05:00</published>
     <updated>2016-01-06T18:10:29-05:00</updated>
     <author>
@@ -91,8 +91,8 @@ is is an example article. You probably want to delete it and write your own arti
   </entry>
   <entry>
     <title>Hello World!</title>
-    <link rel="alternate" href="http://blog.url.com/2016/01/01/hello-world.html"/>
-    <id>http://blog.url.com/2016/01/01/hello-world.html</id>
+    <link rel="alternate" href="http://blog.url.com/2016/01/01/hello-world/"/>
+    <id>http://blog.url.com/2016/01/01/hello-world/</id>
     <published>2015-12-31T19:00:00-05:00</published>
     <updated>2016-01-06T18:10:29-05:00</updated>
     <author>
