@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/</id>
+  <link href="http://blog.url.com/"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2016-01-05T19:00:00-05:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>Raspberry Pi Public Web Server</title>
+    <link rel="alternate" href="http://blog.url.com/2016/01/06/raspberry-pi-public-webserver/"/>
+    <id>http://blog.url.com/2016/01/06/raspberry-pi-public-webserver/</id>
+    <published>2016-01-05T19:00:00-05:00</published>
+    <updated>2016-01-06T18:10:29-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h1 id="raspberry-pi-public-web-server"&gt;Raspberry Pi Public Web Server&lt;/h1&gt;
+
+&lt;p&gt;What does it take to get Raspberry Pi running as a public web server? This article will outline the basics of getting a Rails app started on a Raspberry Pi.&lt;/p&gt;
+
+&lt;h2 id="installing-rvm"&gt;Installing RVM&lt;/h2&gt;
+
+&lt;p&gt;The Ruby Version Manager is worthwhile for two reasons: you have an easy way to maintain your version of Ruby, and secondly, you'll need the &lt;code&gt;rvmsudo&lt;/code&gt; command to run your rails server publicly (more on that later).&lt;/p&gt;
+
+&lt;p&gt;Install &lt;code&gt;rvm&lt;/code&gt; in Single-User Mode because then you won't have to worry about prefixing &lt;code&gt;sudo&lt;/code&gt; every time you &lt;code&gt;gem install &amp;lt;some-gem&amp;gt;&lt;/code&gt;. The &lt;a href="https://rvm.io/rvm/install"&gt;RVM Install&lt;/a&gt; suggests installing it, and then adding the execution path to your &lt;code&gt;.bash_profile&lt;/code&gt;, if you're using something like ZSH, then you're probably savvy enough to know that you're going to have to change &lt;code&gt;.bash_profile&lt;/code&gt; to &lt;code&gt;.profile&lt;/code&gt; or even &lt;code&gt;.zshrc&lt;/code&gt; in the example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;\curl -sSL https://get.rvm.io | bash -s -- --ignore-dotfiles
+echo "source $HOME/.rvm/scripts/rvm" &amp;gt;&amp;gt; ~/.bash_profile
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The run the &lt;code&gt;rvm&lt;/code&gt; command in your terminal to make sure it's working. The next thing I do is install the latest stable version of ruby (at the time of writing, it is &lt;code&gt;v2.3.0&lt;/code&gt;).&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;rvm install 2.3.0 --default
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;You'll notice that installing and compiling Ruby like this takes forever on a Raspberry Pi…&lt;/p&gt;
+
+&lt;h2 id="installing-rails"&gt;Installing Rails&lt;/h2&gt;
+
+&lt;p&gt;When I ran &lt;code&gt;gem install rails&lt;/code&gt; it took forever, and then got hung up at the end when it was building the docs for the rails gem. So, if you don't want to risk that happening, build it without the docs:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;gem install rails --no-ri --no-rdoc
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Once that's done, you're ready to create a new rails app.&lt;/p&gt;
+
+&lt;h2 id="running-a-rails-server-publicly"&gt;Running a Rails Server Publicly&lt;/h2&gt;
+
+&lt;p&gt;Normally, to run a server in development, it's perfectly acceptable to run &lt;code&gt;bundle exec rails server&lt;/code&gt;, but the default port &lt;code&gt;3000&lt;/code&gt; isn't useful unless you're on localhost. Port &lt;code&gt;80&lt;/code&gt; is where public servers run, and as a safety precaution, running &lt;code&gt;bundle exec rails server -p 80&lt;/code&gt; will get an error that contains this information:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;/home/pi/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/socket.rb:205:in `bind': Permission denied - bind(2) for 127.0.0.1:80 (Errno::EACCES)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;So that's where &lt;code&gt;rvmsudo&lt;/code&gt; comes into play:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;rvmsudo bundle exec rails s -b 0.0.0.0 -p 80
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;code&gt;rvmsudo&lt;/code&gt; is better than &lt;code&gt;sudo&lt;/code&gt; because it carries all the ruby environment variables along with it. &lt;code&gt;-b&lt;/code&gt; binds to any IP, and &lt;code&gt;-p&lt;/code&gt; opens port 80. &lt;a href="http://ruby.about.com/od/rubyversionmanager/qt/Rvm-And-Sudo.htm"&gt;More info&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="were-almost-there"&gt;We're almost there&lt;/h2&gt;
+
+&lt;p&gt;So now, your server is pseudo-public, meaning that anyone connected to your WIFI network can freely access your rails server, most likely by visiting &lt;code&gt;http://raspberrypi.local/&lt;/code&gt;. There's some port-forwarding magic that needs to happen if you're going to let the whole world visit your site.&lt;/p&gt;
+
+&lt;p&gt;We now have to enter the wonderful world of Optimum Online. If you're like me and recently signed up for internet access with Optimum, you'll notice that they included a Wifi router with the Modem installation. At first I thought this was weird, and silly, but now I'm realizing just how amazing it is…&lt;/p&gt;
+
+&lt;h2 id="optimum-wifi-config"&gt;Optimum Wifi Config&lt;/h2&gt;
+
+&lt;p&gt;Optimum, for some strange reason, went through all the trouble of providing a complete web interface for your router. What happens is when you visit &lt;code&gt;http://192.168.1.1&lt;/code&gt; to access your Wifi config, it redirects you to an Optimum.net login screen where you can adjust the settings from.&lt;/p&gt;
+
+&lt;p&gt;What you need to do when you get to this landing page is navigate to &lt;code&gt;Router Settings &amp;gt; Advanced Settings &amp;gt; Advanced Settings &amp;gt; Port Manangement&lt;/code&gt;. We're going to setup is &lt;strong&gt;Portforwarding&lt;/strong&gt; so that you can tell your Modem that all Web requests go to the same place (the Rails server on the Pi).&lt;/p&gt;
+
+&lt;p&gt;Click "Add Port Forwarding Rule" to set it up so that the "Service" changes from "User-Defined Service" to "HTTP Web Access", this setting will bake in forwarding for ports 80, 8000, 8080, 8888, and 3127. Then change "Select a Host" to "&lt;code&gt;raspberrypi | MAC ADDRESS | IP ADDRESS&lt;/code&gt;". Also update "Locate Device By" to "Host Name" radio button. Then save your changes.&lt;/p&gt;
+
+&lt;p&gt;Depending on your service plan, you may have to upgrade your access to actually gain control of ports 25 and 80. I found this out the hard way when I wandered onto a product page for &lt;a href="https://www.optimum.net/internet/boost/"&gt;Port Configuration/Dynamic DNS service&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You do not currently have access to these features.&lt;/p&gt;
+
+  &lt;p&gt;In order to manage Port 25, Port 80 or Dynamic DNS, you must subscribe to Optimum Online Ultra 50, Optimum Online Ultra 75 or Optimum Online Ultra 101. Please visit optimum.com for more information or to upgrade your service.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Unfortunately I'm the cheapskate who needs to upgrade to &lt;em&gt;Optimum Online Ultra 50&lt;/em&gt;.
+is is an example article. You probably want to delete it and write your own articles!&lt;/p&gt;
+
+</content>
+  </entry>
+  <entry>
+    <title>Hello World!</title>
+    <link rel="alternate" href="http://blog.url.com/2016/01/01/hello-world/"/>
+    <id>http://blog.url.com/2016/01/01/hello-world/</id>
+    <published>2015-12-31T19:00:00-05:00</published>
+    <updated>2016-01-06T18:10:29-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h1 id="hello-world"&gt;Hello World!&lt;/h1&gt;
+
+&lt;p&gt;New Year, New Blog.&lt;/p&gt;
+
+&lt;p&gt;Hopefully this blog will serve as an exercise in organizing my thoughts.&lt;/p&gt;
+
+&lt;p&gt;My goal this year is to become a better communicator: a better writer, and ultimately a better speaker. I have to start somewhere, so I'm starting with this blog. Welcome!&lt;/p&gt;
+</content>
+  </entry>
+</feed>
