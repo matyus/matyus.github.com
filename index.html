@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<h1><a href="/">matyus.github.io</a></h1>
+<h1>matyus.github.io</h1>
 
 <ul class="unstyled-list">
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
   <li>
     <time datetime="{{ page.date }}">{{ post.date | date: "%Y-%m-%d" }}</time> <a href="{{ post.url }}">{{ post.title }}</a>
   </li>

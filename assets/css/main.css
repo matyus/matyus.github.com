@@ -81,7 +81,7 @@ body {
   color: #333;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
   font-size: 21px;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 body * {
@@ -121,18 +121,24 @@ body {
   padding: 1em;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-size: inherit;
+}
+
 a {
+  --nav-link-color: #d00404;
+  --nav-link-visited-color: maroon;
   text-decoration: none;
 }
 
 a:link {
-  color: red;
+  color: var(--nav-link-color);
   text-decoration: overline;
 }
 
 a:active,
 a:visited {
-  color: maroon;
+  color: var(--nav-link-visited-color);
   text-decoration: none;
 }
 
@@ -145,15 +151,18 @@ nav a + a {
   margin-left: .5em;
 }
 
+nav a:visited {
+  color: var(--nav-link-color);
+}
+
 header,
 main,
 footer {
-  margin: auto;
+  margin: 0 auto 3em;
   max-width: 800px;
 }
 
 main {
-  margin-bottom: 3em;
 }
 
 .footnotes,
@@ -162,10 +171,24 @@ footer {
   font-size: .9em;
 }
 
+blockquote {
+  border-left: 1px solid #ddd;
+  margin-left: 1em;
+  padding-left: 1em;
+}
+
 .unstyled-list {
   list-style: none;
   margin: 0;
   padding: 0;
+}
+
+.tags-list + * {
+  margin-top: 3em;
+}
+
+.works-cited-list {
+  font-style: italic;
 }
 
 main a:link,

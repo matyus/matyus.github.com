@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h1>Tags</h1>
+
+{% for tag in site.tags %}
+  <h2>{{ tag[0] }}</h2>
+
+  <ul class="tags-list">
+    {% for tagged_page in tag[1] %}
+      <li><a href="{{ tagged_page.url }}">{{ tagged_page.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
