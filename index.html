@@ -1,16 +1,13 @@
 ---
 layout: default
-title: Home
 ---
 
-<h1>matyus/matyus.github.io</h1>
+<h1><a href="/">matyus.github.io</a></h1>
 
-<p>These are my notes.</p>
-
-<ol>
+<ul class="unstyled-list">
 {% for post in site.posts %}
   <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
+    <time datetime="{{ page.date }}">{{ post.date | date: "%Y-%m-%d" }}</time> <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
 {% endfor %}
-<ol>
+</ul>

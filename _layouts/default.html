@@ -12,7 +12,8 @@
     <a href="#main-content" class="visuallyhidden focusable" id="skip-to-content">Skip to content</a>
     <header>
       <nav>
-        <a href="/">Home</a>
+        <a href="{% if page.url == "/" %}#main-content{% else %}/{% endif %}">Home</a>
+        <a href="{% if page.url == "/about" %}#main-content{% else %}/about{% endif %}">About</a>
       </nav>
     </header>
 
@@ -22,7 +23,6 @@
 
     <footer>
       <a href="#main-content">Back to top</a>
-      <time datetime="{{ page.last_modified_at }}">Last edited {{ page.last_modified_at | date_to_long_string: "ordinal" }}</time>
     </footer>
   </body>
 </html>

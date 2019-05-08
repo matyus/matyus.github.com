@@ -114,3 +114,87 @@ body * {
   white-space: inherit;
   width: auto;
 }
+
+/* Begin */
+
+body {
+  padding: 1em;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: red;
+  text-decoration: overline;
+}
+
+a:active,
+a:visited {
+  color: maroon;
+  text-decoration: none;
+}
+
+h1 a:link {
+  text-decoration: none;
+  color: inherit;
+}
+
+nav a + a {
+  margin-left: .5em;
+}
+
+header,
+main,
+footer {
+  margin: auto;
+  max-width: 800px;
+}
+
+main {
+  margin-bottom: 3em;
+}
+
+.footnotes,
+blockquote,
+footer {
+  font-size: .9em;
+}
+
+.unstyled-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+main a:link,
+.unstyled-list a:link {
+  text-decoration: underline;
+}
+
+tr,
+td,
+th,
+table {
+  border-collapse: collapse;
+  border: 1px solid #333;
+}
+
+tr,
+td,
+th {
+  padding: .5em;
+}
+
+.footnotes {
+  margin-top: 3em;
+}
+
+.footnotes::before {
+  border-top: 1px solid #000;
+  content: "Footnotes";
+  display: block;
+  font-weight: bold;
+  width: 61.8%;
+}
