@@ -3,6 +3,7 @@ title: matyus.github.io
 description: 🐢 coding slowly
 keywords:  michael matyus
 permalink: pretty
+highlighter: rouge
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
