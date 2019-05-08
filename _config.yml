@@ -4,6 +4,6 @@ description: 🐢 coding slowly
 keywords:  michael matyus
 permalink: pretty
 plugins:
-  - jekyll-gzip
-  - jekyll-assets
-  - jekyll-last-modified-at
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
