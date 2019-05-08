@@ -1,0 +1,11 @@
+source: src/
+destination: build/
+title: Michael Matyus
+description: 🐢
+keywords:  michael matyus
+permalink: pretty
+feed:
+plugins:
+  - jekyll-gzip
+  - jekyll-assets
+  - jekyll-last-modified-at
