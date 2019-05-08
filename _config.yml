@@ -1,10 +1,8 @@
-source: src/
 destination: build/
-title: Michael Matyus
-description: 🐢
+title: matyus.github.io
+description: 🐢 coding slowly
 keywords:  michael matyus
 permalink: pretty
-feed:
 plugins:
   - jekyll-gzip
   - jekyll-assets
