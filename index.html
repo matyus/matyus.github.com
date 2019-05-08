@@ -1,0 +1,16 @@
+---
+layout: default
+title: Home
+---
+
+<h1>matyus/matyus.github.io</h1>
+
+<p>These are my notes.</p>
+
+<ol>
+{% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+<ol>
