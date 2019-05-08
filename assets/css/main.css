@@ -198,3 +198,11 @@ th {
   font-weight: bold;
   width: 61.8%;
 }
+
+div.highlight {
+  margin-bottom: 1em;
+}
+
+.highlight > pre {
+  padding: .25em .5em;
+}

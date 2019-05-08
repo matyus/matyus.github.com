@@ -4,6 +4,9 @@ description: 🐢 coding slowly
 keywords:  michael matyus
 permalink: pretty
 highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

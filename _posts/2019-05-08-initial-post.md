@@ -12,13 +12,22 @@ Here is a quote from something:
 
 Isn't that interesting?
 
+Generic code:
+
     Here is a code block.
 
+Syntax highlighted code:
 
-{:.ruby}
-    def foo(bar)
-      puts bar
-    end
+```ruby
+def foo(bar)
+  puts bar
+end
+```
+```jsx
+render() {
+  return <div>`${foo} bar`</div>
+}
+```
 
 # Header
 ## Header
