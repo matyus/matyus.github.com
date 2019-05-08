@@ -82,10 +82,11 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
   font-size: 21px;
   line-height: 1.4;
+}
 
-  * {
-    box-sizing: inherit;
-  }
+body * {
+  box-sizing: inherit;
+}
 
 .visuallyhidden {
   border: 0;
@@ -112,6 +113,4 @@ body {
   position: static;
   white-space: inherit;
   width: auto;
-}
-
 }
