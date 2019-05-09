@@ -5,9 +5,21 @@ layout: default
 <h1>Notes</h1>
 
 <ul class="unstyled-list">
-{% for post in site.posts %}
-  <li>
-    <time datetime="{{ page.date }}">{{ post.date | date: "%Y-%m-%d" }}</time> <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
+  {% assign groups = site.posts | group_by: 'date' %}
+  {% for group in groups %}
+    <li>
+      <h2>
+        <time datetime="{{ group.name }}">{{ group.name | date: "%Y-%m-%d" }}</time>
+      </h2>
+
+      <ul class="unstyled-list">
+        {% for post in group.items %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+
+    </li>
+  {% endfor %}
 </ul>
