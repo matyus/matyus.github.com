@@ -229,3 +229,19 @@ div.highlight {
 .highlight > pre {
   padding: .25em .5em;
 }
+
+@media (max-width: 600px) {
+  nav {
+    display: flex;
+  }
+
+  footer a,
+  nav a {
+    flex-grow: 1;
+    font-size: 18px;
+  }
+
+  blockquote {
+    margin: 0;
+  }
+}
