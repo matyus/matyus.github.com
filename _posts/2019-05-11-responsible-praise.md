@@ -7,4 +7,4 @@ tags: feedback, praise, responsible-praise, radical-candor, kim-scott
 
 Without the proper care (research), praise will fall into the valley of insincerity.  This can damage your reputation and can be what Kim Scott calls "ruinously empathetic"..
 
-[^praise]: Scott, 2017, p. 2
+[^praise]: Scott, 2017, p. 33
