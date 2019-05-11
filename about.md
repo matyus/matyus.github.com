@@ -4,4 +4,9 @@ layout: default
 
 # About
 
-If I'm going to do something, I might as well try to do it well.
+[github.com/matyus](https://github.com/matyus)
+
+[maty.us](https://maty.us)
+
+michael@maty.us
+
