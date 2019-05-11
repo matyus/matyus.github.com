@@ -20,6 +20,9 @@
     </header>
 
     <main id="main-content">
+      <!-- https://stackoverflow.com/a/41916125 (hacky) -->
+      {% if page.id %}<h1>{{ page.title }}</h1>{% endif %}
+
       {{ content }}
     </main>
 
