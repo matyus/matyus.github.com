@@ -1,6 +1,6 @@
 ---
 layout: default
-tags: feedback, purpose, perspective, radical-candor, kim-scott
+tags: feedback purpose perspective radical-candor kim-scott
 ---
 
 > A story about Christopher Wren, the arhitect responsible for rebuilding the St. Paul's Cathedral after the Great Fire of London … asked three bricklayers what they were doing. The first bricklayer responded, "I'm working." The second said , "I'm building a wall." The third paused, looked up, and then said, "I'm building a cathedral to the Almighty."[^purpose]
