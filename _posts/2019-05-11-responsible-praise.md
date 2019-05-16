@@ -1,6 +1,6 @@
 ---
 layout: default
-tags: feedback, praise, responsible-praise, radical-candor, kim-scott
+tags: feedback praise responsible-praise radical-candor kim-scott
 ---
 
 > …when giving praise, investigate until you really understand who did what and why it was so great.  Be as specific and thorough with praise as with criticism.  Go deep into the details.[^praise]

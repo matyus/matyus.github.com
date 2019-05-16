@@ -1,6 +1,6 @@
 ---
 layout: default
-tags: feedback, manipulatively-inscincere, radical-candor, kim-scott
+tags: feedback manipulatively-inscincere radical-candor kim-scott
 ---
 
 > I had already dismissed Ned as an asshole, and therefore deemed him not worth talking to.  So I was making the fundamental attribution error, and my behavior was "manipulatively insincere." I'm still ashamed of that.  If ever anyone needed a dose of Radical Candor, it was Ned.[^feedback]

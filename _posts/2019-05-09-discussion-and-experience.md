@@ -1,6 +1,6 @@
 ---
 layout: default
-tags: experience, kaizen, discussion-and-experience, radical-candor, kim-scott
+tags: experience kaizen discussion-and-experience radical-candor kim-scott
 ---
 
 > …from John Stuart Mill:

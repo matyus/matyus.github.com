@@ -212,6 +212,10 @@ th {
   padding: .5em;
 }
 
+details .title {
+  display: inline;
+}
+
 .footnotes {
   margin-top: 3em;
 }

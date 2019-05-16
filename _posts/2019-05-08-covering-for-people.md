@@ -1,6 +1,6 @@
 ---
 layout: default
-tags: feedback, covering-for-people, avoidance, radical-candor, kim-scott
+tags: feedback covering-for-people avoidance radical-candor kim-scott
 ---
 
 > It's brutally hard to tell people when they are screwing up. You don't _want_ to hurt anyone's feelings; that's because you're not a sadist.  You don't want that person or the rest of the team to think you're a jerk.  Plus, you've been told since you learned to talk, "If you don't have anything nice to say, don't say anything at all."  Now all of the sudden it's your _job_ to say it.  You've got to undo a lifetime of training.  Management is hard.
