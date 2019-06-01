@@ -10,4 +10,5 @@ Creating a culture of listening:
 > 3. regularly offer explanation as to why other issues aren't being addressed[^listening]
 
 This should both empower people to point things but also enable people to help fix/make changes.
+
 [^listening]: Scott, 2017, p. 86
