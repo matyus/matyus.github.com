@@ -129,6 +129,7 @@ h1, h2, h3, h4, h5, h6 {
 a {
   --nav-link-color: #d00404;
   --nav-link-visited-color: maroon;
+  color: var(--nav-link-color);
   text-decoration: none;
 }
 
