@@ -4,7 +4,9 @@ layout: default
 
 # Works cited
 
-Books I've read and quoted on this website will be cited here.
+Sources I've read and quoted on this website will be cited here.
+
+* “Etsy's Debriefing Facilitation Guide for Blameless Postmortems.” Code as Craft, 18 Nov. 2016, codeascraft.com/2016/11/17/debriefing-facilitation-guide/.
 * FIBA. “Spurs Philosophy System Basics - Gregg Popovich - Basketball Fundamentals.” YouTube, YouTube, 17 Mar. 2016, https://youtube.com/watch?v=XBZTPtENQCY.
 * Fournier, Camille. The Manager's Path: a Guide for Tech Leaders Navigating Growth and Change. O'Reilly Media, 2017.
 * Lencioni, Patrick. The Five Dysfunctions of a Team: A Leadership Fable. Jossey-Bass, 2002.
