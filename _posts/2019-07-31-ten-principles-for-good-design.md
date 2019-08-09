@@ -21,6 +21,8 @@ Let’s agree that design is abstract and that it can be applied to things other
 
  What happens when we ask ourselves a similar that Rams asked himself? Furthermore, as a starting point, can we use the same principles that he used?
 
+Let's just do one thing and exchange the word **design** for the word **software**…
+
 > <span>1.</span> **Good [software] is innovative** — The possibilities for innovation are not, by any means, exhausted. Technological development is always offering new opportunities for innovative design. But innovative design always develops in tandem with innovative technology, and can never be an end in itself.
 
 Good code is built on good technology, good technology is always evolving therefore good code is always evolving.
