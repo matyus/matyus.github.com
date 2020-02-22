@@ -7,4 +7,4 @@ tags: etsy parables blind-men elephant teamwork communication
 >
 > None of them is wrong, but at the same time, none of the descriptions alone are sufficient to describe an elephant holistically.[^elephant]
 
-[^elephant]: Esty 2016, p. 8
+[^elephant]: Etsy 2016, p. 8
