@@ -1,7 +1,13 @@
 ---
 layout: default
-tags: product process
+tags: product development process agile 
 ---
+
+This is a stream of consciousness or meditation on how I think about product development in relation to the problems it solves. 
+
+As the title states, I think all pf this boils down to the idea that products and features are merely a means for solving aa specific problem. And here I begin unpacking that.
+
+Every good explanation starts with analogy, right?
 
 ## An analogy
 
@@ -11,7 +17,7 @@ The **means** for quenching their thirst might be to provide them with a drinkin
 
 The **end** is that they are quenched, or no longer thirsty.
 
-In other words, the value that we need to provide is that we quench the user’s thirst.
+In other words, the value that we need to provide is the quenching of the user’s thirst.
 
 So one way to frame this is that the design and build of the vessel is a matter of circumstance (a means) for quenching thirst. It’s not the only means, but it’s the ideal solution for our situation.
 
@@ -34,7 +40,7 @@ What’s amazing is that we can glean these insights, and we haven’t had to de
 Why is it important to do the least amount of work possible?
 In a society we need to be smart (and deliberate) about how we use our most precious finite resource: time.
 
-The better we use our time with the resources we have (people, tools, etc.), then that essentially means the better we are evolving as a business and providing something that our customers find valuable …and therefore will pay us for.
+The better we use our time with the resources we have (people, tools, etc.), then the better we are evolving as a business that provides something that our customers find valuable.
 
 ### Greater than the whole
 
@@ -56,7 +62,7 @@ Let’s take a step back…
 
 Maybe when we first started out we wanted to be the team that sells as many thirst-quenching vessels to as many thirsty customers for as cheaply as possible.
 
-But through talking to users and experimenting with  various solutions we find that there’s a very specific and very valuable subset of customers that will pay through the nose to have their needs met.
+But in talking to users and experimenting with various solutions we find that there’s a very specific and very valuable subset of customers that will pay even more to have those needs met.
 
 It’s not necessarily about either strategy being good or bad, but maybe we find that one is more profitable for us.
 
@@ -90,7 +96,7 @@ Keeping in mind that profits are metrics and distinctly different from your goal
 
 Any metric that becomes a goal ceases to be a useful metric.
 
-Humanity violates this Law constantly without realizing it, so the least you can do is talk to your team and make sure you all can distinguish between metrics and goals is a productive way.
+Humanity violates this Law constantly without realizing it, so the least you can do is talk to your team and make sure you all can distinguish between metrics and goals in a productive way.
 
 ### Working with agility
 
@@ -100,7 +106,7 @@ This section will sound loaded no matter how hard I try to abstract what I think
 
 I prefer to frame this idea as a team “working with agility” to a team “having an Agile process”.
 
-You can hear [a lucid explanation of what this means](https://www.youtube.com/watch?v=a-BOSpxYJ9M) from one of the founding fathers [^thomas] of the _Agile Manifesto_ because he explains how the philosophy was repurposed over the years by people who more or less packaged it into something marketable that companies could buy. The act of that has somehow warped the original intentions, which are astoundingly simple:
+You can hear [a lucid explanation of what this means](https://www.youtube.com/watch?v=a-BOSpxYJ9M) from one of the founding fathers [^thomas] of the _Agile Manifesto_ because he explains how the philosophy was repurposed over the years by people who (more or less) packaged it into something marketable that companies could buy. The act of that has somehow warped the original intentions, which are astoundingly simple:
 
 >  We are uncovering better ways of developing<br />
 >  software by doing it and helping others do it.<br />
@@ -114,5 +120,6 @@ You can hear [a lucid explanation of what this means](https://www.youtube.com/wa
 >  That is, while there is value in the items on<br />
 >  the right, we value the items on the left more.
 
+I will have to explain what to do with all of this in a separate blog post. But just know that it's all a logical extension of the princples and values expressed in the above.
 
 [^thomas]: Dave Thomas, 2015
