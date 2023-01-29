@@ -3,9 +3,9 @@ layout: default
 tags: product development process agile 
 ---
 
-This is a stream of consciousness or meditation on how I think about product development in relation to the problems it solves. 
+This is a stream of consciousness or meditation on how I think about product development.
 
-As the title states, I think all pf this boils down to the idea that products and features are merely a means for solving aa specific problem. And here I begin unpacking that.
+As the title states, all of this boils down to the idea that products and features are merely a means for solving a specific problem.
 
 Every good explanation starts with analogy, right?
 
@@ -19,13 +19,15 @@ The **end** is that they are quenched, or no longer thirsty.
 
 In other words, the value that we need to provide is the quenching of the user’s thirst.
 
-So one way to frame this is that the design and build of the vessel is a matter of circumstance (a means) for quenching thirst. It’s not the only means, but it’s the ideal solution for our situation.
+So one way to frame this is that the design-and-build of the vessel is a matter of circumstance (a means) for quenching thirst. It’s not the only means, but it’s suitable for our situation.
 
 ## Taking the analogy further…
 
-Perhaps the “least amount of work” solution is to not create a vessel, but to teach them how to cup their hands into a bowl.
+Before we go to the drawing board and design some really slick container, we should consider whether we can achieve insights without doing any work or inventing anything new.
 
-We can then observe how they handle the situation without us doing anything for them. This will give us a better understanding of what kind of vessel it is that they need – that’s great, because we can still learn how to solve the problem without having to do very much work at all.
+Perhaps the “least amount of work to an insight” is to not create a vessel, but to teach the end user how to cup their hands into a bowl.
+
+We can then observe how they handle the situation without us doing anything. This will give us a better understanding of what kind of vessel it is that they need – that’s great, because we can still learn how to solve the problem without having to do very much work at all.
 
 The “work” we need to do, so far: create a tutorial for the user who can now self-remedy the problem with tools they already have (their two hands).
 
@@ -33,24 +35,25 @@ Maybe we find that cupping their hands into a bowl to quench their thirst create
 
 Maybe the user needs a bigger vessel, or a vessel with a lid for reasons we didn’t foresee, etc. (Now we’re getting somewhere!)
 
-What’s amazing is that we can glean these insights, and we haven’t had to design and build a single version of what we assumed the vessel should be. Now we can have confidence that our proof of concept is going to validate the problem we originally identified: how best to quench the thirst of a user, and we can base our decisions on their actual observed needs.
+What’s amazing is that we didn't design a single thing, _and_ we have insights that inform how our proof of concept is going to validate the problem: how best to quench the thirst of a user.
 
 ## Frame of mind
 
-Why is it important to do the least amount of work possible?
-In a society we need to be smart (and deliberate) about how we use our most precious finite resource: time.
+Why is it important to do the least amount of work possible? 
 
-The better we use our time with the resources we have (people, tools, etc.), then the better we are evolving as a business that provides something that our customers find valuable.
+Because we are smart (and deliberate) about how we use our most precious finite resource: time.
+
+The better we use our time with the resources we have (money, people, tools, etc.), then the better we are evolving as a business that makes our customers more efficient.
 
 ### Greater than the whole
 
-This contrived example of thirsty users is a long winded way to say that our job isn’t “to build products and features for our customers”, our job is “to solve their problems”.
+This contrived example of "thirsty users" is a long winded way to say that our job isn’t “to build products and features for our customers”, our job is “to solve their problems”.
 
 It’s a matter of a circumstance that we usually solve their problems in the form of products or features.
 
 What’s not immediately obvious but important to acknowledge here is that solving these problems is truly a team effort.
 
-Everyone has their own strengths and weaknesses, and it’s important for us to be open with each other so that we can best leverage each other’s strengths and help level each other up as we collaborate.
+Everyone on our team has their own strengths and weaknesses, so it’s important for us to be open with each other because then we can everage each other’s strengths and help level each other up as we collaborate.
 
 That’s when the parts of a team become greater than the whole.
 
@@ -74,6 +77,8 @@ Writing out these ideas helps inform us not only what to value but also how to p
 
 The way in which we work together starts to become clear, and now we can start to understand what the process for working together should be.
 
+We need the team going in the same direction and optimizing for the same set of contraints. 
+
 ### Measure, reflect, improve
 
 It’s not impossible to improve something that you’re not measuring, but it can be hard to demonstrate (and feel confident about) because it’s not very rigorous.
@@ -94,7 +99,7 @@ If your team is profit driven (their main goal is measured by profit) then it’
 
 Keeping in mind that profits are metrics and distinctly different from your goals is how Goodhart’s Law works:
 
-Any metric that becomes a goal ceases to be a useful metric.
+> When a measure (metric) becomes a target (goal), it ceases to be a good measure.
 
 Humanity violates this Law constantly without realizing it, so the least you can do is talk to your team and make sure you all can distinguish between metrics and goals in a productive way.
 
@@ -120,6 +125,6 @@ You can hear [a lucid explanation of what this means](https://www.youtube.com/wa
 >  That is, while there is value in the items on<br />
 >  the right, we value the items on the left more.
 
-I will have to explain what to do with all of this in a separate blog post. But just know that it's all a logical extension of the princples and values expressed in the above.
+I will explain what to do with all of this in a separate blog post. But just know that it's all a logical extension of the princples and values expressed above.
 
 [^thomas]: Dave Thomas, 2015
