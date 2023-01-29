@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Allow for Criticism
 tags: personal-vs-professional sharing-yourself radical-candor kim-scott
 ---
 

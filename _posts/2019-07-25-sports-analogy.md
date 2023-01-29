@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Sports Analogy
 tags: five-dysfunctions-of-a-team patrick-lencioni teamwork collaboration communication responsibility
 ---
 

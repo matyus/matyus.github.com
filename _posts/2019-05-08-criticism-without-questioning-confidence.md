@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Criticism Without Questioning Confidence
 tags: feedback criticism pyschological-safety building-confidence radical-candor kim-scott
 ---
 

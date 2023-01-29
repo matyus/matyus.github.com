@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Knowing When to Fire Someone
 tags: firing radical-candor kim-scott
 ---
 

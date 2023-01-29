@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Manipulatively Insincere
 tags: feedback manipulatively-inscincere radical-candor kim-scott
 ---
 

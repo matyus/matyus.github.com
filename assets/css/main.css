@@ -76,7 +76,8 @@ img {
 }
 
 body {
-  background: #fff;
+  --var-bg-color: #fff;
+  background: var(--var-bg-color);
   box-sizing: border-box;
   color: #333;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
@@ -120,10 +121,6 @@ body * {
 
 body {
   padding: 1em;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-size: inherit;
 }
 
 a {
@@ -215,6 +212,14 @@ th {
 
 details .title {
   display: inline;
+}
+
+.toggle-details {
+  background: var(--var-bg-color);
+  position: sticky;
+  top: 0;
+  padding: 1em 0;
+  margin: 0;
 }
 
 .footnotes {

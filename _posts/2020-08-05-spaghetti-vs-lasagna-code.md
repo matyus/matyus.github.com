@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Spaghetti vs. Lasagna Code
 tags: abstraction indirection lasagna spaghetti
 ---
 

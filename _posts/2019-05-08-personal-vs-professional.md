@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Personal vs. Professional
 tags: feedback criticism pyschological-safety radical-candor kim-scott
 ---
 

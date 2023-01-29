@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Career Trajectories
 tags: promotions google career-growth career-trajectory radical-candor kim-scott
 ---
 

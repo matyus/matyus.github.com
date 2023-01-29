@@ -4,12 +4,14 @@ layout: default
 
 <h1>Tags</h1>
 
+<p class="toggle-details">
+  <button data-toggle="open" id="toggle-details">collapse all</button>
+</p>
+
 {% assign site_tags = site.tags | sort %}
 {% for tag in site_tags %}
-  <details>
-    <summary>
-      <h2 class="title">{{ tag[0] }}</h2>
-    </summary>
+  <details open>
+    <summary>{{ tag[0] }}</summary>
 
     <ul class="tags-list">
       {% for tagged_page in tag[1] %}
@@ -18,3 +20,19 @@ layout: default
     </ul>
   </details>
 {% endfor %}
+
+<script>
+  const details = document.querySelectorAll('details');
+
+  function handleToggle({ target: { dataset: { toggle } } }) {
+    for (detail of details) {
+      detail.toggleAttribute('open', toggle !== 'open')
+    }
+
+    this.dataset.toggle = toggle === 'open' ? 'closed' : 'open';
+    this.innerText = toggle === 'open' ? 'open all' : 'collapse all';
+  }
+
+  document.querySelector('#toggle-details').addEventListener('click', handleToggle, false);
+
+</script>

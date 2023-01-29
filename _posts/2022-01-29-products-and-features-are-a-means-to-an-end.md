@@ -1,6 +1,6 @@
 ---
-layout: default
-tags: product development process agile 
+title: Products and Features are a Means to an End
+tags: product development process agile
 ---
 
 This is a stream of consciousness or meditation on how I think about product development.
@@ -39,7 +39,7 @@ What’s amazing is that we didn't design a single thing, _and_ we have insights
 
 ## Frame of mind
 
-Why is it important to do the least amount of work possible? 
+Why is it important to do the least amount of work possible?
 
 Because we are smart (and deliberate) about how we use our most precious finite resource: time.
 
@@ -77,7 +77,7 @@ Writing out these ideas helps inform us not only what to value but also how to p
 
 The way in which we work together starts to become clear, and now we can start to understand what the process for working together should be.
 
-We need the team going in the same direction and optimizing for the same set of contraints. 
+We need the team going in the same direction and optimizing for the same set of contraints.
 
 ### Measure, reflect, improve
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Challenging Others
 tags: challenging-others building-trust admitting-mistakes radical-candor kim-scott
 ---
 

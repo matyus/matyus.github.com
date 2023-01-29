@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Covering for People
 tags: feedback covering-for-people avoidance radical-candor kim-scott
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Initial post
 ---
 
 This is to test out [kramdown](https://kramdown.gettalong.org/syntax.html).

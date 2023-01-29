@@ -1,8 +1,7 @@
 ---
-layout: default
+title: Ten Principles for Good Design
 tags: dieter-rams design-principles
 ---
-
 
 > Back in the late 1970s, Dieter Rams was becoming increasingly concerned by the state of the world around him: “An impenetrable confusion of forms, colours and noises.”
 >

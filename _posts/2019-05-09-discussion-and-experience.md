@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Discussion and Experience
 tags: experience kaizen discussion-and-experience radical-candor kim-scott
 ---
 

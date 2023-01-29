@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Five Dysfunctions of a Team
 tags: five-dysfunctions-of-a-team patrick-lencioni trust conflict commitment accountability results
 ---
 

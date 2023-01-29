@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Strong Teams
 tags: strong-teams trust managers-path camille-fournier
 ---
 

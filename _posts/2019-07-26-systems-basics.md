@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Systems Basics
 tags: gregg-popovich fundamentals systems-basics teamwork collaboration communication responsibility character standards losing leadership timeouts goal-setting failure
 ---
 

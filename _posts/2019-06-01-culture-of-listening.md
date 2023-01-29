@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Culture of Listening
 tags: culture listening radical-candor kim-scott
 ---
 

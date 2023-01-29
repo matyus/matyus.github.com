@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Getting Stuff Done
 tags: getting-stuff-done productivity radical-candor kim-scott
 ---
 

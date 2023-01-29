@@ -1,5 +1,5 @@
 ---
-layout: default
+title: What are You Doing?
 tags: feedback purpose perspective radical-candor kim-scott
 ---
 

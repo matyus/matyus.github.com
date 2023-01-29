@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Conveying Nuance
 tags: nuance best-practices context abstraction
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Parable of the Blind Men and the ELephant
 tags: etsy parables blind-men elephant teamwork communication
 ---
 

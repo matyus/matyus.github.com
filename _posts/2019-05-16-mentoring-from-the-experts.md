@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Mentoring from the Experts
 tags: mentoring training leveraging-experts radical-candor kim-scott
 ---
 

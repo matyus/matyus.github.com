@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Responsible Praise
 tags: feedback praise responsible-praise radical-candor kim-scott
 ---
 
