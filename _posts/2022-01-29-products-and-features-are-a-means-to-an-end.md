@@ -102,16 +102,16 @@ I prefer to frame this idea as a team “working with agility” to a team “ha
 
 You can hear [a lucid explanation of what this means from one of the founding fathers](https://www.youtube.com/watch?v=a-BOSpxYJ9M)[^thomas] of the _Agile Manifesto_ because he explains how the philosophy was repurposed over the years by people who more or less packaged it into something marketable that companies could buy. The act of that has somehow warped the original intentions, which are astoundingly simple:
 
->  We are uncovering better ways of developing
->  software by doing it and helping others do it.
+>  We are uncovering better ways of developing<br />
+>  software by doing it and helping others do it.<br />
 >  Through this work we have come to value:
 >
->  Individuals and interactions over processes and tools
->  Working software over comprehensive documentation
->  Customer collaboration over contract negotiation
+>  Individuals and interactions over processes and tools<br />
+>  Working software over comprehensive documentation<br />
+>  Customer collaboration over contract negotiation<br />
 >  Responding to change over following a plan
 >
->  That is, while there is value in the items on
+>  That is, while there is value in the items on<br />
 >  the right, we value the items on the left more.
 
 
