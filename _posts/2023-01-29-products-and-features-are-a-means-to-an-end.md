@@ -45,7 +45,7 @@ Because we are smart (and deliberate) about how we use our most precious finite 
 
 The better we use our time with the resources we have (money, people, tools, etc.), then the better we are evolving as a business that makes our customers more efficient.
 
-### Greater than the whole
+## Greater than the whole
 
 This contrived example of "thirsty users" is a long winded way to say that our job isn’t “to build products and features for our customers”, our job is “to solve their problems”.
 
@@ -59,7 +59,7 @@ That’s when the parts of a team become greater than the whole.
 
 That’s when we achieve greatness.
 
-### How do we frame our goals?
+## How do we frame our goals?
 
 Let’s take a step back…
 
@@ -69,7 +69,7 @@ But in talking to users and experimenting with various solutions we find that th
 
 It’s not necessarily about either strategy being good or bad, but maybe we find that one is more profitable for us.
 
-### Alignment
+## Alignment
 
 Our team needs to understand where we want to be a month from now, a quarter from now, a year from now (vision) and why we’re doing what we’re doing (mission), so that we have a destination to chart towards, or an ideal to work backwards from.
 
@@ -79,7 +79,7 @@ The way in which we work together starts to become clear, and now we can start t
 
 We need the team going in the same direction and optimizing for the same set of contraints.
 
-### Measure, reflect, improve
+## Measure, reflect, improve
 
 It’s not impossible to improve something that you’re not measuring, but it can be hard to demonstrate (and feel confident about) because it’s not very rigorous.
 
@@ -87,7 +87,7 @@ There will be obvious improvements at times, but how do you know you didn’t ge
 
 Can you point to something and definitively say “this is why we’ve improved the way we work”? Or is it correlation?
 
-### Metrics are not goals
+## Metrics are not goals
 
 Profits and losses are great indicators of successes or failures for a business unit but they are merely measurements that we use to better understand “how we’re doing”. It’s a proxy for the value we provide for our customers since the exchange of capital is quantitative.
 
@@ -103,7 +103,7 @@ Keeping in mind that profits are metrics and distinctly different from your goal
 
 Humanity violates this Law constantly without realizing it, so the least you can do is talk to your team and make sure you all can distinguish between metrics and goals in a productive way.
 
-### Working with agility
+## Working with agility
 
 There isn’t one way to measure a team’s progress or productivity.
 
