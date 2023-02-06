@@ -19,6 +19,10 @@ h1 {
   margin: 0.67em 0;
 }
 
+h1, h2, h3 {
+  line-height: 1.4;
+}
+
 hr {
   box-sizing: content-box; /* 1 */
   height: 0; /* 1 */
