@@ -13,4 +13,5 @@ Sources I've read and quoted on this website will be cited here.
 * Lencioni, Patrick. The Five Dysfunctions of a Team: A Leadership Fable. Jossey-Bass, 2002.
 * Scott, Kim. Radical Candor: Be a Kick-Ass Boss without Losing Your Humanity. St Martin's Press, 2019.
 * Thomas, Dave. “Agile Is Dead • Pragmatic Dave Thomas • Goto 2015.” YouTube, GoToConferences, 14 July 2015, https://www.youtube.com/watch?v=a-BOSpxYJ9M.
+* Manifesto for Agile Software Development, https://agilemanifesto.org/. 
 {:.works-cited-list}
