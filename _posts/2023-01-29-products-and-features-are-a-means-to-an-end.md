@@ -109,7 +109,7 @@ This section will sound loaded no matter how hard I try to abstract what I think
 
 I prefer to frame this idea as a team “working with agility” to a team “having an Agile process”.
 
-You can hear [a lucid explanation of what this means](https://www.youtube.com/watch?v=a-BOSpxYJ9M) from one of the founding fathers [^thomas] of the _Agile Manifesto_ because he explains how the philosophy was repurposed over the years by people who (more or less) packaged it into something marketable that companies could buy. The act of that has somehow warped the original intentions, which are astoundingly simple:
+You can hear [a lucid explanation of what this means](https://www.youtube.com/watch?v=a-BOSpxYJ9M) from one of the founding fathers[^thomas] of the _Agile Manifesto_[^agile] because he explains how the philosophy was repurposed over the years by people who (more or less) packaged it into something marketable that companies could buy. The act of that has somehow warped the original intentions, which are astoundingly simple:
 
 >  We are uncovering better ways of developing<br />
 >  software by doing it and helping others do it.<br />
@@ -121,8 +121,9 @@ You can hear [a lucid explanation of what this means](https://www.youtube.com/wa
 >  Responding to change over following a plan
 >
 >  That is, while there is value in the items on<br />
->  the right, we value the items on the left more.
+>  the right, we value the items on the left more.[^agile]
 
 I will explain what to do with all of this in a separate blog post. But just know that it's all a logical extension of the princples and values expressed above.
 
 [^thomas]: Dave Thomas, 2015
+[^agile]: [Manifesto for Agile Software Development](https://agilemanifesto.org/)
