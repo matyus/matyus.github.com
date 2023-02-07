@@ -83,9 +83,7 @@ We need the team going in the same direction and optimizing for the same set of 
 
 It’s not impossible to improve something that you’re not measuring, but it can be hard to demonstrate (and feel confident about) because it’s not very rigorous.
 
-There will be obvious improvements at times, but how do you know you didn’t get lucky?
-
-Can you point to something and definitively say “this is why we’ve improved the way we work”? Or is it correlation?
+There will be obvious improvements at times, but for other situations, how do you know you didn’t get lucky? 
 
 ## Metrics are not goals
 
@@ -99,7 +97,7 @@ If your team is profit driven (their main goal is measured by profit) then it’
 
 Keeping in mind that profits are metrics and distinctly different from your goals is how Goodhart’s Law works:
 
-> When a measure (metric) becomes a target (goal), it ceases to be a good measure.
+> When a measure _(metric)_ becomes a target _(goal)_, it ceases to be a good measure.
 
 Humanity violates this Law constantly without realizing it, so the least you can do is talk to your team and make sure you all can distinguish between metrics and goals in a productive way.
 
