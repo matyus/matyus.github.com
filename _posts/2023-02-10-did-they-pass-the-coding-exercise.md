@@ -38,7 +38,7 @@ We can't reasonably be so binary in our assessment when it comes to interviewing
 To blend our analogy a bit, the assessments should be more in the spirit of: 
 
 - **What was the quality of the reps?** 
-  How many projects did they do and how difficult were those projects?
+  How many projects did they do and how difficult or diverse were those projects?
   
 - **How was their form?** 
   Did they write clean code that other engineers could reason about?
@@ -46,7 +46,7 @@ To blend our analogy a bit, the assessments should be more in the spirit of:
 - **Did they use their full range of motion?** 
   What kind of experiences did they draw upon and apply in a new context?
   
-- **Did they good mind-muscle connection?** 
+- **Did they have good mind-muscle connection?** 
   What level of self-awareness did they have?
   
 - **Did they use you as a spotter?**
