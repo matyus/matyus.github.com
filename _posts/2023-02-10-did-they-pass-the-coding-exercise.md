@@ -9,7 +9,7 @@ If it feels like things aren't going well, it may motivate your team to revisit 
 
 And the coding exercise always gets the most scrutiny, especially if the team isn't aligned on what the goals are.
 
-This is more or less another observation on how the coding exercise is a means to an end, but I think a useful analogy here is staring us right in the face: it's word "exercise".
+This is more or less another observation on how the coding exercise is a means to an end, but I think a useful analogy here is staring us right in the face: it's the word "exercise".
 
 It seems like a coincidence that word we use for a coding interview is the same word we use for strength conditioning, but here we are.
 
