@@ -16,7 +16,7 @@ It seems like a coincidence that the word we use for a coding interview is the s
 
 ## Why is it called a “coding exercise”?
 
-Any kind of exercise, whether it be coding, weight-lifting, etc, are intended to assess the fitness of something in some situation.
+Any kind of exercise, whether it be coding, weight-lifting, etc, are intended to assess the fitness of something in a given situation.
 
 Doing a compound movement, like a deadlift, is a lot like doing a coding exercise: 
 
@@ -68,7 +68,7 @@ It doesn’t necessarily mean: how many jobs did you have, and how many years di
 
 It does necessarily mean: what did you learn and how did you grow while you working that job?
 
-What might all of this say about how they assimilate, grow, and raise-the-bar for our team?
+So given that we are interviewing them, what might all of this say about how they assimilate, grow, and raise-the-bar if they join our team?
 
 
 ## Post-huddle
