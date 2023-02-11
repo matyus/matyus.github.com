@@ -7,9 +7,9 @@ Interviewing is hard!!!! but it's also fun and rewarding when it's done well.
 
 If it feels like things aren't going well, it may motivate your team to revisit their Interview Process. 
 
-And the coding exercise always gets the most scrutiny, especially if the team isn't aligned on what the goals are.
+And the coding exercise always gets the most scrutiny. It naturally invited the most opinions and is easy to criticize, especially if the team isn't aligned on what the goals are.
 
-This is more or less another observation on how the coding exercise is a means to an end, but I think a useful analogy here is staring us right in the face: it's the word "exercise".
+This is more or less another observation on how something is "a means to an end", but I think there is a fun analogy here staring us right in the face: it's the word "exercise".
 
 It seems like a coincidence that the word we use for a coding interview is the same word we use for strength conditioning, but here we are.
 
@@ -62,26 +62,29 @@ And even more importantly, we can being to distinguish between which parts of th
 
 ## Cooling down
 
-It's possible to gain experience in a lot of different ways and it’s our job to glean meaningful information from all the clues. 
+It's possible for a candidate to gain experience in a lot of different ways and it’s our job to glean meaningful information from all the clues. 
 
-It doesn’t necessarily mean: how many jobs did you have, and how many years did you work at each of those jobs. 
+It **doesn’t** necessarily mean: how many jobs did you have, and how many years did you work at each of those jobs. 
 
-It does necessarily mean: what did you learn and how did you grow while you working that job?
+It **does** necessarily mean: what did you learn and how did you grow while you working that job?
 
 So given that we are interviewing them, what might all of this say about how they assimilate, grow, and raise-the-bar if they join our team?
 
 
 ## Post-huddle
 
-Finally, we must cross reference our findings with the rest of the team.
+Finally, we must cross-reference our findings with the rest of the team.
 
 Regrouping after the interview loop we will be asking ourselves, "did they pass the coding exercise?"
 
 And we will answer with a set of qualitative observations instead of the binary "yes or no".
 
-And we will use those oberservations to decide whether the rewards of hiring the candidate outweigh the possible risks.
+And we will use those observations to decide whether the rewards of hiring the candidate outweigh the possible risks.
 
-Since hiring is an extremely expensive process (in terms of time, energy, money, everything), derisking each new hire is immensely important.[^recovery]
+Since hiring is an extremely expensive process (in terms of time, energy, money, everything), derisking each new hire is immensely important.[^recovery] 
+
+If the only thing your team learns during the coding exercise was that the candidate couldn't solve the contrived problem then you are probably missing the forest for the trees.  
+
 
 [^recovery]: As a candidate, it's takes a lot to put yourself out there in an interview. You might feel good about how everything went but still not get the job.  
 Conversely, I wouldn't want a candidate accepting a job offer that they didn't feel good about. You can't force these things. Fitness is not singular. A power lifter and a marathon runner aren’t exactly interachangeable.There will be times where our team interviews an amazing marathoner but we know we need a strong power lifter, and we have to pass on the marathoner. You can't let your sense of self-worth be dictated by the number of offers you get—especially in a tough job market—where your livelihood could literally be on the line. No matter how hard it gets, it's not something to be take personally.
