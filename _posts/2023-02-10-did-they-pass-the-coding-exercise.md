@@ -11,7 +11,7 @@ And the coding exercise always gets the most scrutiny, especially if the team is
 
 This is more or less another observation on how the coding exercise is a means to an end, but I think a useful analogy here is staring us right in the face: it's the word "exercise".
 
-It seems like a coincidence that word we use for a coding interview is the same word we use for strength conditioning, but here we are.
+It seems like a coincidence that the word we use for a coding interview is the same word we use for strength conditioning, but here we are.
 
 
 ## Why is it called a “coding exercise”?
