@@ -83,5 +83,5 @@ And we will use those oberservations to decide whether the rewards of hiring the
 
 Since hiring is an extremely expensive process (in terms of time, energy, money, everything), derisking each new hire is immensely important.[^recovery]
 
-[recovery]: As a candidate, it's takes a lot to put yourself out there in an interview. You might feel good about how everything went but still not get the job.  
+[^recovery]: As a candidate, it's takes a lot to put yourself out there in an interview. You might feel good about how everything went but still not get the job.  
 Conversely, I wouldn't want a candidate accepting a job offer that they didn't feel good about. You can't force these things. Fitness is not singular. A power lifter and a marathon runner aren’t exactly interachangeable.There will be times where our team interviews an amazing marathoner but we know we need a strong power lifter, and we have to pass on the marathoner. You can't let your sense of self-worth be dictated by the number of offers you get—especially in a tough job market—where your livelihood could literally be on the line. No matter how hard it gets, it's not something to be take personally.
