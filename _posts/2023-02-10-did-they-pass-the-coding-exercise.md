@@ -22,7 +22,7 @@ Doing a compound movement, like a deadlift, is a lot like doing a coding exercis
 
 When you’re working out, you're _interrogating a set of muscles_ with resistance and seeing how they all respond in concert. 
 
-And when you're interviewing a candidate, you're _interrogating a set of their skills_ with problems and see how they use their experience in concert. 
+And when you're interviewing a candidate, you're _interrogating a set of their skills_ with problems and seeing how they use their experience in concert. 
 
 Provide some kind of stimulus and observe the response. 
 
