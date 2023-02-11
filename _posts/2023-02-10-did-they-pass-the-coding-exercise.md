@@ -66,7 +66,7 @@ It's possible for a candidate to gain experience in a lot of different ways and 
 
 It **doesn’t** necessarily mean: how many jobs did you have, and how many years did you work at each of those jobs. 
 
-It **does** necessarily mean: what did you learn and how did you grow while you working that job?
+It **does** necessarily mean: what did you learn and how did you grow while you worked at those jobs?
 
 So given that we are interviewing them, what might all of this say about how they assimilate, grow, and raise-the-bar if they join our team?
 
@@ -87,4 +87,5 @@ If the only thing your team learns during the coding exercise was that the candi
 
 
 [^recovery]: As a candidate, it's takes a lot to put yourself out there in an interview. You might feel good about how everything went but still not get the job.  
-Conversely, I wouldn't want a candidate accepting a job offer that they didn't feel good about. You can't force these things. Fitness is not singular. A power lifter and a marathon runner aren’t exactly interachangeable.There will be times where our team interviews an amazing marathoner but we know we need a strong power lifter, and we have to pass on the marathoner. You can't let your sense of self-worth be dictated by the number of offers you get—especially in a tough job market—where your livelihood could literally be on the line. No matter how hard it gets, it's not something to be take personally.
+Conversely, I wouldn't want a candidate accepting a job offer that they didn't feel good about. You can't force these things. Fitness is not singular. A power lifter and a marathon runner aren’t exactly interachangeable.  
+There will be times where our team interviews an amazing marathoner but we know we need a strong power lifter, and we have to pass on the marathoner. You can't let your sense of self-worth be dictated by the number of offers you get—especially in a tough job market—where your livelihood could literally be on the line. No matter how hard it gets, it's not something to be take personally.
