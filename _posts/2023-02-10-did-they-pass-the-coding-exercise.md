@@ -20,9 +20,9 @@ Any kind of exercise, whether it be coding, weight-lifting, etc, are intended to
 
 Doing a compound movement, like a deadlift, is a lot like doing a coding exercise: 
 
-When you’re working out, you're _interrogating_ a set of muscles with resistance and seeing how they all respond in concert. 
+When you’re working out, you're _interrogating a set of muscles_ with resistance and seeing how they all respond in concert. 
 
-And when you're interviewing a candidate, you're _interrogating_ a set of their skills with problems and see how they use their experience in concert. 
+And when you're interviewing a candidate, you're _interrogating a set of their skills_ with problems and see how they use their experience in concert. 
 
 Provide some kind of stimulus and observe the response. 
 
