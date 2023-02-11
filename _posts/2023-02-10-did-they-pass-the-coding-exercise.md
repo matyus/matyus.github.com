@@ -7,7 +7,7 @@ Interviewing is hard!!!! but it's also fun and rewarding when it's done well.
 
 If it feels like things aren't going well, it may motivate your team to revisit their Interview Process. 
 
-And the coding exercise always gets the most scrutiny. It naturally invited the most opinions and is easy to criticize, especially if the team isn't aligned on what the goals are.
+The coding exercise in particular always gets the most scrutiny. It naturally invites the most opinions because it is easy to criticize, especially if the team isn't aligned on what the goals are.
 
 This is more or less another observation on how something is "a means to an end", but I think there is a fun analogy here staring us right in the face: it's the word "exercise".
 
