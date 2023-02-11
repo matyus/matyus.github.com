@@ -49,6 +49,9 @@ To blend our analogy a bit, the assessments should be more in the spirit of:
 - **Did they good mind-muscle connection?** 
   What level of self-awareness did they have?
   
+- **Did they use you as a spotter?**
+  Were they receptive or eliciting feedback and suggestions?
+  
   
 Now we have a rich collection of observations from which to draw upon after the interview.
 
@@ -56,9 +59,21 @@ We can begin to assess which level the candidate operates at but also what kind 
 
 And even more importantly, we can being to distinguish between which parts of the candidate that are inherent and not likely to change, and which parts are coachable. 
 
-Now it's time to cross reference your finding with the rest of the team.
+
+## Cooling down
+
+It's possible to gain experience in a lot of different ways and it’s our job to glean meaningful information from all the clues. 
+
+It doesn’t necessarily mean: how many jobs did you have, and how many years did you work at each of those jobs. 
+
+It does necessarily mean: what did you learn and how did you grow while you working that job?
+
+What might all of this say about how they assimilate, grow, and raise-the-bar for our team?
+
 
 ## Post-huddle
+
+Finally, we must cross reference our findings with the rest of the team.
 
 Regrouping after the interview loop we will be asking ourselves, "did they pass the coding exercise?"
 
@@ -68,14 +83,21 @@ And we will use those oberservations to decide whether the rewards of hiring the
 
 Since hiring is an extremely expensive process (in terms of time, energy, money, everything), derisking each new hire is immensely important.
 
-## Conclusion
 
-You can gain experience in a lot of different ways and it’s my job to glean meaningful information from certain metrics. 
+## Recovery
 
-It doesn’t necessarily mean: how many jobs did you have, and how many years did you work at each of those jobs. 
+As a candidate, it's takes a lot to put yourself out there in an interview. 
 
-It does necessarily mean: what did you learn and how did you grow while you working that job?
+You might feel good about how everything went but still not get the job. 
 
-Fitness is not singular. A power lifter and a marathon runner aren’t equal.
+Conversely, I wouldn't want a candidate accepting a job offer that they didn't feel good about.  
 
-We need to know what we’re looking for in order to know how and what we should hire for because nothing is more unfortunate than interviewing a really amazing powerlifter when all your team needs is a marathoner.
+You can't force these things. 
+
+Fitness is not singular.  A power lifter and a marathon runner aren’t exactly interachangeable.
+
+There will be times where our team interviews an amazing marathoner but we know we need a strong power lifter, and we have to pass on the marathoner.
+
+You can't let your sense of self-worth be dictated by the number of offers you get—especially in a tough job market—where your livelihood could literally be on the line. 
+
+It's not something to be take personally, unfortunately this is business.
