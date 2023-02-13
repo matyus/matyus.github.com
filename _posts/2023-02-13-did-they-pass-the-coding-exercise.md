@@ -1,6 +1,6 @@
 ---
 title: Did they pass the Coding Exercise?
-tags: interviewing interrogation demonstration software-engineering
+tags: interviewing interrogation demonstration software-engineering fitness exercise coding
 ---
 
 Interviewing is hard!!!! but it's also fun and rewarding when it's going well.
