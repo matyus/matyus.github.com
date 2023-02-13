@@ -88,4 +88,4 @@ If the only thing your team learns during the coding exercise was that the candi
 
 [^recovery]: As a candidate, it's takes a lot to put yourself out there in an interview. You might feel good about how everything went but still not get the job.  
 Conversely, you probably shouldn't accept a job offer that you don't feel good about. In this sense, "fitness" is the sum of two things being greater than the whole.  
-Also, power lifter and a marathon runner aren’t exactly interachangeable. There will be times where our team interviews an amazing marathoner but we know we need a strong power lifter, and we have to pass on the marathoner.
+Also, power lifter and a marathon runner aren’t exactly interachangeable. There will be times where our team interviews an amazing marathoner but we have to pass on them because we know we need a strong power lifter.
