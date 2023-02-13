@@ -3,9 +3,9 @@ title: Did they pass the Coding Exercise?
 tags: interviewing interrogation demonstration software-engineering
 ---
 
-Interviewing is hard!!!! but it's also fun and rewarding when it's done well.
+Interviewing is hard!!!! but it's also fun and rewarding when it's going well.
 
-If it feels like things aren't going well, it may motivate your team to revisit their Interview Process. 
+And when things aren't going well, your team may feel like revising their Interview Process. 
 
 The coding exercise in particular always gets the most scrutiny. It naturally invites the most opinions because it is easy to criticize, especially if the team isn't aligned on what the goals are.
 
@@ -16,7 +16,7 @@ It seems like a coincidence that the word we use for a coding interview is the s
 
 ## Why is it called a “coding exercise”?
 
-Any kind of exercise, whether it be coding, weight-lifting, etc, are intended to assess the fitness of something in a given situation.
+Any kind of exercises, whether they be coding, weight-lifting, running, etc, are intended to guage the fitness of something in a given context.
 
 Doing a compound movement, like a deadlift, is a lot like doing a coding exercise: 
 
@@ -55,12 +55,12 @@ To blend our analogy a bit, the assessments should be more in the spirit of:
   
 Now we have a rich collection of observations from which to draw upon after the interview.
 
-We can begin to assess which level the candidate operates at but also what kind of potential they might have.
+We can now have an idea of which level the candidate operates at and also what kind of potential they might have.
 
-And even more importantly, we can being to distinguish between which parts of the candidate that are inherent and not likely to change, and which parts are coachable. 
+And even more importantly, we begin to see which traits of the candidate that are inherent (and not likely to change), and which traits are coachable. 
 
 
-## Cooling down
+## Forming your own opinion
 
 It's possible for a candidate to gain experience in a lot of different ways and it’s our job to glean meaningful information from all the clues. 
 
@@ -83,10 +83,9 @@ And we will use those observations to decide whether the rewards of hiring the c
 
 Since hiring is an extremely expensive process (in terms of time, energy, money, everything), derisking each new hire is immensely important.[^recovery] 
 
-If the only thing your team learns during the coding exercise was that the candidate couldn't solve the contrived problem then you are probably missing the forest for the trees.  
+If the only thing your team learns during the coding exercise was that the candidate couldn't solve the contrived problem then you are probably missing the forest for the trees.
 
 
 [^recovery]: As a candidate, it's takes a lot to put yourself out there in an interview. You might feel good about how everything went but still not get the job.  
-Conversely, I wouldn't want a candidate accepting a job offer that they didn't feel good about. You can't force these things. Fitness is not singular. A power lifter and a marathon runner aren’t exactly interachangeable.  
-There will be times where our team interviews an amazing marathoner but we know we need a strong power lifter, and we have to pass on the marathoner.  
-You can't let your sense of self-worth be dictated by the number of offers you get—especially in a tough job market—where your livelihood could literally be on the line. No matter how hard it gets, it's not something to be take personally.
+Conversely, you probably shouldn't accept a job offer that you don't feel good about. In this sense, "fitness" is the sum of two things being greater than the whole.  
+Also, power lifter and a marathon runner aren’t exactly interachangeable. There will be times where our team interviews an amazing marathoner but we know we need a strong power lifter, and we have to pass on the marathoner.
