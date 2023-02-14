@@ -86,6 +86,4 @@ Since hiring is an extremely expensive process (in terms of time, energy, money,
 If the only thing your team learns during the coding exercise was that the candidate couldn't solve the contrived problem then you are probably missing the forest for the trees.
 
 
-[^recovery]: As a candidate, it's takes a lot to put yourself out there in an interview. You might feel good about how everything went but still not get the job.  
-Conversely, you probably shouldn't accept a job offer that you don't feel good about. In this sense, "fitness" is the sum of two things being greater than the whole.  
-Also, power lifter and a marathon runner aren’t exactly interachangeable. There will be times where our team interviews an amazing marathoner but we have to pass on them because we know we need a strong power lifter.
+[^recovery]: As a candidate, it's takes a lot to put yourself out there in an interview. You might feel good about how everything went but still not get the job. Conversely, you probably shouldn't accept a job offer that you don't feel good about. In this sense, "fitness" is the sum of two things being greater than the whole. Also, power lifter and a marathon runner aren’t exactly interachangeable. There will be times where our team interviews an amazing marathoner but we have to pass on them because we know we need a strong power lifter.
