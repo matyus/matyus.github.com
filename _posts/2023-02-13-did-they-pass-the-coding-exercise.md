@@ -64,9 +64,9 @@ And even more importantly, we begin to see which traits of the candidate that ar
 
 It's possible for a candidate to gain experience in a lot of different ways and it’s our job to glean meaningful information from all the clues. 
 
-It **doesn’t** necessarily mean: how many jobs did you have, and how many years did you work at each of those jobs. 
+It **doesn’t** mean: how many jobs did you have, and how many years did you work at each of those jobs. 
 
-It **does** necessarily mean: what did you learn and how did you grow while you worked at those jobs?
+It **does** mean: what did you learn and how did you grow while you worked at those jobs?
 
 So given that we are interviewing them, what might all of this say about how they assimilate, grow, and raise-the-bar if they join our team?
 
