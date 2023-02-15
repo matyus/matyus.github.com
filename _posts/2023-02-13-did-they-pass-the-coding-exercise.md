@@ -83,7 +83,7 @@ And we will use those observations to decide whether the rewards of hiring the c
 
 Since hiring is an extremely expensive process (in terms of time, energy, money, everything), derisking each new hire is immensely important.[^recovery] 
 
-If the only thing your team learns during the coding exercise was that the candidate couldn't solve the contrived problem then you are probably missing the forest for the trees.
+If the only thing your team learns from the coding exercise was that the candidate could or couldn't solve what is ultimately a contrived or academic problem, then you are probably going to miss out on the chance to build a really great team.
 
 
 [^recovery]: As a candidate, it's takes a lot to put yourself out there in an interview. You might feel good about how everything went but still not get the job. Conversely, you probably shouldn't accept a job offer that you don't feel good about. In this sense, "fitness" is the sum of two things being greater than the whole. Also, power lifter and a marathon runner aren’t exactly interachangeable. There will be times where our team interviews an amazing marathoner but we have to pass on them because we know we need a strong power lifter.
