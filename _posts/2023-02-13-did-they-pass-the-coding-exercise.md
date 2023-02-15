@@ -8,7 +8,7 @@ This is more or less another observation on how something is "a means to an end"
 
 ## Why is it called a coding "exercise”?
 
-Any kind of exercises, whether they be coding, weight-lifting, calisthenics, running, etc, are intended to guage the fitness of someone in a given context.
+Any kind of exercises, whether they be weight-lifting, calisthenics, running, etc, are intended to guage the fitness of someone in a given context.
 
 When you’re working out, you're _interrogating a set of muscles_ with resistance and seeing how they all respond in concert. 
 
