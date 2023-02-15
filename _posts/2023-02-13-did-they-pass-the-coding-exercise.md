@@ -14,9 +14,7 @@ When you’re working out, you're _interrogating a set of muscles_ with resistan
 
 Muscular strength, then, is kind of like experience that is stored in the body. 
 
-Similarly, when you're interviewing a candidate, you're _interrogating a set of their skills_ with problems and seeing how they use their experience in concert. 
-
-An interview is a test of how our candidate uses their body/experience to perform a compound movement, like deadlift or squat. 
+Similarly, when you're interviewing a candidate, you're _interrogating a set of their skills_ with a problem and seeing how they use their experience in concert. 
 
 Provide some kind of stimulus and observe the response. 
 
