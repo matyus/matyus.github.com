@@ -3,37 +3,40 @@ title: Did they pass the Coding Exercise?
 tags: interviewing interrogation demonstration software-engineering fitness exercise coding
 ---
 
-Interviewing is hard!!!! but it's also fun and rewarding when it's going well.
-
-And when things aren't going well, your team may feel like revising their Interview Process. 
-
-The coding exercise in particular always gets the most scrutiny. It naturally invites the most opinions because it is easy to criticize, especially if the team isn't aligned on what the goals are.
-
-This is more or less another observation on how something is "a means to an end", but I think there is a fun analogy here staring us right in the face: it's the word "exercise".
-
-It seems like a coincidence that the word we use for a coding interview is the same word we use for strength conditioning, but here we are.
+This is more or less another observation on how something is "a means to an end"... but I think there is a fun analogy here staring us right in the face: our journey starts with the word _exercise_.
 
 
-## Why is it called a “coding exercise”?
+## Why is it called a coding "exercise”?
 
-Any kind of exercises, whether they be coding, weight-lifting, running, etc, are intended to guage the fitness of something in a given context.
-
-Doing a compound movement, like a deadlift, is a lot like doing a coding exercise: 
+Any kind of exercises, whether they be coding, weight-lifting, calisthenics, running, etc, are intended to guage the fitness of someone in a given context.
 
 When you’re working out, you're _interrogating a set of muscles_ with resistance and seeing how they all respond in concert. 
 
-And when you're interviewing a candidate, you're _interrogating a set of their skills_ with problems and seeing how they use their experience in concert. 
+Muscular strength, then, is kind of like experience that is stored in the body. 
+
+Similarly, when you're interviewing a candidate, you're _interrogating a set of their skills_ with problems and seeing how they use their experience in concert. 
+
+An interview is a test of how our candidate uses their body/experience to perform a compound movement, like deadlift or squat. 
 
 Provide some kind of stimulus and observe the response. 
 
 
-## Validating success using indirection
+## Moving away from a pass/fail mentality
+
+We can't reasonably be so binary in our assessment when it comes to interviewing candidates. If only it were so simple.
 
 For many reasons you can't just ask someone "can you lift 500 kilos?" and take them at their word. 
 
-Additionally, what you're trying to learn shouldn't necessarily be "can they lift 500 kilos?"
+But also, what you're trying to learn shouldn't necessarily be "can they lift 500 kilos?".
 
-We can't reasonably be so binary in our assessment when it comes to interviewing candidates. If only it were so simple.
+What we'd like to get to is a holistic understanding of the candidates strengths and weaknesses.
+
+And then we can discuss how those traits fit into the fabric of the existing team.
+
+
+## Validating success using indirection
+
+A coding exercise should seek to tease out those traits without needing to take the candidate at their word.
 
 To blend our analogy a bit, the assessments should be more in the spirit of: 
 
@@ -51,7 +54,6 @@ To blend our analogy a bit, the assessments should be more in the spirit of:
   
 - **Did they use you as a spotter?**  
   Were they receptive or eliciting feedback and suggestions?
-  
   
 Now we have a rich collection of observations from which to draw upon after the interview.
 
