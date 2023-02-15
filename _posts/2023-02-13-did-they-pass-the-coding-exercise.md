@@ -23,9 +23,9 @@ Provide some kind of stimulus and observe the response.
 
 We can't reasonably be so binary in our assessment when it comes to interviewing candidates. If only it were so simple.
 
-For many reasons you can't just ask someone "can you lift 500 kilos?" and take them at their word. 
+For many reasons you can't just ask someone "can you lift 500 kilos?"
 
-But also, what you're trying to learn shouldn't necessarily be "can they lift 500 kilos?".
+But more importantly, what you're trying to learn shouldn't necessarily be "can they lift 500 kilos?"
 
 What we'd like to get to is a holistic understanding of the candidate's strengths and weaknesses.
 
