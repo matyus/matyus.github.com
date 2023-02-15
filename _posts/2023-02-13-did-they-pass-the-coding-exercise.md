@@ -27,7 +27,7 @@ For many reasons you can't just ask someone "can you lift 500 kilos?" and take t
 
 But also, what you're trying to learn shouldn't necessarily be "can they lift 500 kilos?".
 
-What we'd like to get to is a holistic understanding of the candidates strengths and weaknesses.
+What we'd like to get to is a holistic understanding of the candidate's strengths and weaknesses.
 
 And then we can discuss how those traits fit into the fabric of the existing team.
 
